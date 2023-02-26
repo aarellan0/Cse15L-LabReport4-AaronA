@@ -9,4 +9,8 @@ and step 3 is was to begin the timer.
 
 # Step #4 - Logging into the ieng6 ucsd server
 
+The first step was to login into the ieng6 ucsd server.
+
+![Image][ssh login.png]
+
 
